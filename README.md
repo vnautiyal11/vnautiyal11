@@ -21,6 +21,5 @@ I am an **Artificial Intelligence and Data Science** student at **Ramaiah Instit
 ### 📫 Get in touch
 - 📧 **Email:** [vaibhavnautiyal11@gmail.com](mailto:vaibhavnautiyal11@gmail.com)
 - 💼 **LinkedIn:** [/in/vaibhav-nautiyal-rit](kedin.com/in/vaibhav-nautiyal-761b14291/)
-- 🌐 **Portfolio:** [vnautiyal11.vercel.app](https://vnautiyal11.vercel.app)
 
 ---
